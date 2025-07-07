@@ -1,5 +1,8 @@
 """
-抓取A股市值大于指定阈值且排除创业板的股票日K线数据并保存为CSV。
+@description: 下载历史行情：抓取A股市值大于指定阈值且排除创业板的股票日K线数据并保存为CSV。
+@version: 1.0
+@author: Z
+@date: 2025-06-22
 """
 from __future__ import annotations
 
